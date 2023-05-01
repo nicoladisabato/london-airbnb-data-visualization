@@ -1,4 +1,4 @@
-# London Airbnb: data visualization
+# London Airbnb: Data Visualization
 
 ## Introduction
 
