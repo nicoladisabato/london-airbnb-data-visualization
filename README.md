@@ -1,4 +1,4 @@
-# London Airbnb: Data Visualization
+# London Airbnb: Data Visualization using Tableau
 
 ## Introduction
 
