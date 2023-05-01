@@ -17,3 +17,4 @@ There are 74 different attributes in the original dataset, most of which are unn
 ## Data Understanding
 Below are the tables, in Figure 1, deriving from the files after having carried out the selection process, with a detailed description of all the selected fields. Each of these tables represents an entity within the relational type diagram.
 
+![alt text](https://github.com/nicoladisabato/london-airbnb-data-visualization/blob/figures/dataset_scheme.png?raw=true)
